@@ -1,4 +1,3 @@
-
 #plot4.R - Creates a 4 plots in panels on 1 screen and saves it as png file with size width and heigh equal to 480
 
 ## Getting ALL the data
